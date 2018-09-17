@@ -1,6 +1,6 @@
 /**
  * 
- * @author Tanya
+ * @author Tanya Kalianda
  * Simple Calculator
  */
 public class Calculator 

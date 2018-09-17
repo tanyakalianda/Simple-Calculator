@@ -1,4 +1,8 @@
-
+/**
+ * 
+ * @author Tanya Kalianda
+ * Simple Calculator
+ */
 public class CalculatorMain 
 {
 
@@ -10,8 +14,8 @@ public class CalculatorMain
 		System.out.println(calc.add(2, 6));
 		System.out.println(calc.subtract(9, 4)); 
 		
-		String name = "The difference of 9 and 4 is "; 
-		System.out.println(name + calc.subtract(9, 4));
+		String subtraction = "The difference of 9 and 4 is "; 
+		System.out.println(subtraction + calc.subtract(9, 4));
 	}
 	
 
